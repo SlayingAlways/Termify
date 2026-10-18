@@ -110,8 +110,6 @@ existing name adds the track to it. The `[5] Playlists` tab lists everything;
 `data/playlists.json`.
 
 <p align="center">
-  <img src="docs/playlists.png" width="880" alt="A playlist open in Termify, its tracks listed with like and download markers">
-  <br>
   <em>The <code>[5] Playlists</code> tab — <code>Enter</code> opens a playlist, <code>a</code> adds the selected track, <code>d</code> twice deletes it.</em>
 </p>
 
