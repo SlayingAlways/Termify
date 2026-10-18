@@ -20,7 +20,7 @@ audio streams instantly through **yt-dlp + ffmpeg + PortAudio**.
 > copyright of what you listen to.
 
 <p align="center">
-  <img src="docs/hero.gif" width="880" alt="Termify demo: searching for a song, playing it, and the live audio visualizer">
+  <img src="assets/search.gif" width="880" alt="Termify demo: searching for a song, playing it, and the live audio visualizer">
   <br>
   <em>Search any song, press <code>Enter</code> — it plays instantly, with a live visualizer and mood tag in the now-playing bar.</em>
 </p>
