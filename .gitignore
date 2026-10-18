@@ -1,0 +1,7 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+node_modules/

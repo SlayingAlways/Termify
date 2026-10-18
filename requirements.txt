@@ -1,0 +1,5 @@
+yt-dlp>=2025.9.5
+numpy>=2.1
+sounddevice>=0.5.1
+imageio-ffmpeg>=0.5.1
+prompt_toolkit>=3.0.48

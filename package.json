@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Silenceisprogrammer",
+    "url": "https://github.com/Silenceisprogrammer"
+  },
+  "name": "termify-app",
+  "version": "1.0.0",
+  "description": "Termify - a Spotify-style music player for your terminal. No account, no API keys, no ads.",
+  "license": "MIT",
+  "bin": {
+    "termify": "bin/termify.js"
+  },
+  "files": [
+    "bin/",
+    "termify/",
+    "requirements.txt"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "postinstall": "node bin/setup.js"
+  },
+  "keywords": [
+    "termify",
+    "spotify",
+    "terminal",
+    "tui",
+    "music",
+    "music-player",
+    "cli",
+    "youtube",
+    "yt-dlp",
+    "lyrics",
+    "no-ads"
+  ]
+}
